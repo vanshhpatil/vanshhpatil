@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<a href="https://YOUR_PORTFOLIO_LINK" target="_blank">
+<a href="https://vanshhpatil.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
@@ -47,9 +47,9 @@
 ## 📊 GitHub Stats
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vanshhpatil&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vanshhpatil&theme=tokyonight&hide_border=true" height="170"/>
 
 </div>
 
@@ -58,16 +58,16 @@
 ## 📈 Top Languages
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshhpatil&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
 ## 🔥 Current Focus
-- Learning **Backend**
+- Learning **Backend & System Design**
 - Building **AI-based real-world projects**
-- Strengthening **DSA & System Design**
+- Strengthening **DSA**
 
 ---
 
