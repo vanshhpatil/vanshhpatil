@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Vansh  
+# Hi 👋, I'm Vansh Patil
 
 ### 🚀 CSE Student | Full Stack Developer | AI Enthusiast  
 
